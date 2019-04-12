@@ -1,0 +1,10 @@
+{
+    "compileOnSave": true,
+    "compilerOptions": {
+        "target": "es5",
+        "lib": ["es6", "dom"],
+        "experimentalDecorators": true
+        // "outFile": "./script.js"
+    }
+}
+
